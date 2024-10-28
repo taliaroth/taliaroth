@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taliaroth
 - 👀 I’m interested in UX/UI Design
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 
 <!---
 taliaroth/taliaroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
